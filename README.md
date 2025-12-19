@@ -22,7 +22,7 @@
 ---  
 
 <div align="center">  
-  <img src="https://damassets.autodesk.net/content/dam/autodesk/www/products/inventor/overview/inventor-social.jpg" width="1080" alt="Inventor Screenshot"/>  
+  <img src="https://machow2.com/wp-content/uploads/2022/10/inventor-for-mac.jpg" width="1080" alt="Inventor Screenshot"/>  
 </div>  
 
 <br>  
